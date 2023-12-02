@@ -14,7 +14,7 @@ This project seeks to answer certain questions. Many pandas functions such as da
 * Countries with the most TV series and movie data. (Display of data on the world map with Geopandas)
 * Continents with the most TV shows and movies
   
-----------------------------------------------------
+The commands that we used in this project :
 
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
