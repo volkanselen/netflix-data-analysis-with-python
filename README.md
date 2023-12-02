@@ -11,6 +11,8 @@ This project seeks to answer certain questions. Many pandas functions such as da
 * Q. 6) Show Top 10 Directors, who gave the highest number of TV Shows & Movies to Netflix ?
 * Q. 7) Show all the Records, where "Category is Movie and Type is Comedies" or "Country is United Kingdom".
 * Q. 8) In how many movies/shows, Tom Cruise was cast ?
+* Countries with the most TV series and movie data. (Display of data on the world map with Geopandas)
+* Continents with the most TV shows and movies
 
 
 *head() - It shows the first N rows in the data (by default, N=5).
