@@ -15,7 +15,7 @@ This project seeks to answer certain questions. Many pandas functions such as da
 * Continents with the most TV shows and movies
 
 
-*head() - It shows the first N rows in the data (by default, N=5).
+* head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
 * shape - It shows the total no. of rows and no. of columns of the dataframe.
 * size - To show No. of total values(elements) in the dataset.
