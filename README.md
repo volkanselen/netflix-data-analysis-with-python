@@ -13,7 +13,8 @@ This project seeks to answer certain questions. Many pandas functions such as da
 * Q. 8) In how many movies/shows, Tom Cruise was cast ?
 * Countries with the most TV series and movie data. (Display of data on the world map with Geopandas)
 * Continents with the most TV shows and movies
-
+  
+----------------------------------------------------
 
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
